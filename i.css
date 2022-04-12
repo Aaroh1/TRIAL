@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(to  right,rgba(255, 255, 0, 0.422),rgb(231, 185, 33),rgb(196, 98, 33))
+}
+.up{
+    margin-top:10% ;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.pfp{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+}
+.brighten{
+    
+    opacity: 60%;
+}
+.lower{
+    display: flex;
+    flex-direction: column;
+   
+}
